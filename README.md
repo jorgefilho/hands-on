@@ -1,2 +1,9 @@
 # hands-on
-** My new professional project
+
+* My new professional project. *
+
+## First Topics:
+
+  * Node.js
+  * Spring-boot
+
