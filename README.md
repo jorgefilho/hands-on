@@ -1,6 +1,6 @@
-# hands-on
-
-* My new professional project. *
+# Hands-on
+===
+  My new professional project.
 
 ## First Topics:
 
